@@ -1,4 +1,3 @@
-// DeliveryFlyweight.java
 public interface DeliveryFlyweight {
-    void deliver(String name, String number);
+  void deliver(String name, String number);
 }
